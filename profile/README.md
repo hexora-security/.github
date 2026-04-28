@@ -1,4 +1,8 @@
-# Security Org
+
+<div align="left">
+  <h2>Security Operation </h2>
+</div>
+
 ```text
 Hexora develops deterministic, mathematically verifiable systems for the next generation of digital 
 asset management.We operate at the frontier of blockchain security, utilizing custom 
@@ -11,7 +15,6 @@ Built for proprietary treasury operations where latency kills and visibility lea
 - Real-time intelligence and adaptive risk modeling  
 - Deterministic execution and controlled system behavior  
 - High-performance architectures for verifiable computation  
-
 
 <div align="right">
   <sub>Precision. Control. Determinism.</sub><br>
