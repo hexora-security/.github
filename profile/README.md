@@ -1,6 +1,7 @@
- 
+# Security Org
+```text
 Hexora develops deterministic, mathematically verifiable systems for the next generation of digital asset management, we operate at the frontier of blockchain security, utilizing custom execution environments to ensure every transaction is validated before reaching the chain.
-
+```
 <br>
 
 - Security-first system design for distributed environments  
