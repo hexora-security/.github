@@ -14,5 +14,5 @@
 
 <div align="right">
   <sub>Precision. Control. Determinism.</sub><br>
-  <code>contact@hexora.com</code>
+  <code>contact@hexorasec.com</code>
 </div>
