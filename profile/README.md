@@ -1,5 +1,7 @@
 
-
+<div align="left">
+  <h2>Security Operation </h2>
+</div>
 
 >Hexora builds verifiable security systems for real-time execution, adversarial defense, and infrastructure control in distributed environments. 
 
