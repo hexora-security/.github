@@ -3,12 +3,10 @@
   <h2>Security Operation </h2>
 </div>
 
-```
-Hexora develops deterministic, mathematically verifiable systems for the next generation of digital 
+<p>Hexora develops deterministic, mathematically verifiable systems for the next generation of digital 
 asset management.We operate at the frontier of blockchain security, utilizing custom 
 execution environments to ensure every transaction is validated before reaching the chain
-Built for proprietary treasury operations where latency kills and visibility leaks edge.
-```
+Built for proprietary treasury operations where latency kills and visibility leaks edge.</p>
 <br>
 
 - Security-first system design for distributed environments  
@@ -18,5 +16,5 @@ Built for proprietary treasury operations where latency kills and visibility lea
 
 <div align="right">
   <sub>Precision. Control. Determinism.</sub><br>
-  <code>contact@hexorafinance.com</code>
+  <code>contact@hexora.com</code>
 </div>
