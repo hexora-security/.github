@@ -3,8 +3,7 @@
 Hexora develops deterministic, mathematically verifiable systems for the next generation of digital 
 asset management.We operate at the frontier of blockchain security, utilizing custom 
 execution environments to ensure every transaction is validated before reaching the chain
-Built for proprietary treasury operations where latency kills and 
-visibility leaks edge.
+Built for proprietary treasury operations where latency kills and visibility leaks edge.
 ```
 <br>
 
