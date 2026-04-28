@@ -1,6 +1,6 @@
 
 <div align="left">
-  <h2>Hexora builds verifiable security systems for real-time execution, adversarial defense, and infrastructure control in distributed environments.  </h2>
+  <h3>Hexora builds verifiable security systems for real-time execution, adversarial defense, and infrastructure control in distributed environments.  </h3>
 </div>
 
 - Security-first system design for distributed environments  
